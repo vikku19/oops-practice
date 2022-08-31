@@ -1,0 +1,12 @@
+Rectangle
+-   length: double
+-   width: double
+
++ Rectangle()
++ Rectangle(length : double,width:double)
++ getLength() : double
++ getWidth() : double
++ setWidth(width : double) : void
++ setLenth(length : double) : void
++ area() : double
+

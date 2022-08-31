@@ -1,0 +1,12 @@
+
+Bank Account Class
+
+- owner : string
+- balance : int
+
++ BankAccount(owner:string)
++ BankAccount(owner:string,balance:int)
++ deposit(amount:int): void
++ withdraw(amount:int):void
++ getOwner():string
++ getBalance():int

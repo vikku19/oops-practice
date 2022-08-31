@@ -1,0 +1,10 @@
+
+class : Dog
+
+- name : string
+- breed : string
+
++ Dog(name : string,breed : string)
++ getName( : string
++ getBreed() : string
+

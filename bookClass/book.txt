@@ -1,0 +1,11 @@
+
+- author:string
+- title:string
+- genre:string
+- numPages:int
+
++ Book(author:string,title:string,genre:string,numPages:int)
++ getAuthor():string
++ getTitle():string
++ getGenre():string
++ getNumPages():int

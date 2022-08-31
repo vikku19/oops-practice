@@ -1,0 +1,12 @@
+
+Pizza class
+
+- name:string
+- cost:int
+- diameter: int
+- toppings: vector<string>
+
++ Pizza(name:string,cost:int,diameter:int)
++ addTopping(topping:string): void
++ getCost(): int
++ printTopping() : void

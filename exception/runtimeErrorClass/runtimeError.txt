@@ -1,0 +1,8 @@
+
+Person Class
+
+- name:string
+
++ Person(name:string)
++ getName():string
++ setName(name:string) : void

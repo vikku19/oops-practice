@@ -1,0 +1,28 @@
+
+What is this Project about?
+
+You are tasked with creating the fundamental classes to represent the player character, that is, the entity within the game world that the user of the game software would control. A role-playing game or RPG is a game in which you take on the persona 
+(somtimes also called the avatar) of an in-game character, who goes on quests, fight enemies, looks for gold, crawls through dungeons or 
+any other number of tasks, depending on the game.
+
+
+Instructions:
+    
+The Player Base Class
+
+- name: string
+- race: Race
+- hitPoints: int
+- magicPoints: int
+
++ Player(name:string,race:Race,hitPoints:int,magicPoints:int)
++ getName(): string
++ getRace(): Race
++ whatRace(): string
++ getHitPoints(): int
++ getMagicPoints(): int
++ setName(name:string): void
++ setRace(race:Race): void
++ setHitPoints(hitPoints: int):void
++ setMagicPoints(magicPoints: int): void
++ attck(): string = 0

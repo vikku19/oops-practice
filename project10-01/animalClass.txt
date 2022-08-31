@@ -1,0 +1,30 @@
+
+Animal class
+
+- name : string
+- weight : double
+
++ Animal(name: string, weight: double)
++ getName(): string
++ setName(name: string): void
++ getWeight(): double
++ setWeight(weight: double): void
++ makeNoise(): string
+
+Dog class -> Inherited from base class Animal
+
+Derived class: Dog
+
+- breed : string
+
++ Dog(name: string, weight: double, breed: string)
++ getBreed() : string
++ digHole() : void   // It will print "I'm digging a hole!
+
+
+
+Cat class -> Inherited from base class Animal
+Derived class class: Cat
+
++ Cat( name:string, weight: double)
++ chaseMouse() : void

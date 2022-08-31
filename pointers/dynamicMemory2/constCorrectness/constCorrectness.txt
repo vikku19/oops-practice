@@ -1,0 +1,8 @@
+
+Here we'll discuss four Scenarios involving pointers.
+
+1.    Non-constant pointer to non-constant data
+2.    Constant pointer to non-constant data
+3.    Non-constant pointer to constant data
+4.    Constant pointer to constant data
+

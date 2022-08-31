@@ -1,0 +1,11 @@
+
+Circle class
+
+- radius: double
+
++ Circle()
++ Circle(radius:double)
++ getradius():double
++ setRadius(radius :double) : void
++ circumfrence() : double
++ area(): double
